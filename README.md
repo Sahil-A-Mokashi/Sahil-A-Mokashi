@@ -22,5 +22,6 @@
 
 ## Connect
 
-- LinkedIn: linkedin.com/in/sahil-mokashi
+- LinkedIn: https://linkedin.com/in/sahil-mokashi
 - Email: sahilmokashi6.1@gmail.com
+- leetcode : https://leetcode.com/u/sahil-mokashi/
