@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sahil 👋
 
-<!--
-**Sahil-A-Mokashi/Sahil-A-Mokashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Information Systems & Computing – Dublin Business School
 
-Here are some ideas to get you started:
+💼 Former Data Engineer with 4 years of experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Python
+- SQL
+- PySpark
+- Databricks
+- Azure Data Factory
+- Azure
+- GCP
+
+## Currently
+
+- Learning AI & Cloud
+- Building personal projects
+- Looking for internships and graduate opportunities
+
+## Connect
+
+- LinkedIn: linkedin.com/in/sahil-mokashi
+- Email: sahilmokashi6.1@gmail.com
